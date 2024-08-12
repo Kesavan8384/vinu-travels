@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+    .img2 {
+        display: none;
+    }
+
+    .img3 {
+        display: none;
+    }
+    .about-content{
+        text-align: center;
+    }
+    .about-item{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-contact-details-text span{
+        display: block;
+    }
+}
